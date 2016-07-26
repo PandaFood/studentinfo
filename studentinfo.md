@@ -50,18 +50,18 @@
 
 ### Info för nya studenter
 
-  *[Nya studenter](https://www.facebook.com/groups/249379248513482/)
-  *[Ge tak åt en student](https://www.facebook.com/groups/185241421543279/)
-  *[Karta över Campus](http://www.ltu.se/maps/campusmap/)
+  * [Nya studenter](https://www.facebook.com/groups/249379248513482/)
+  * [Ge tak åt en student](https://www.facebook.com/groups/185241421543279/)
+  * [Karta över Campus](http://www.ltu.se/maps/campusmap/)
 
 ### Viktigt för datastudenter
 
-  *[Eran egen facebookgrupp](https://www.facebook.com/groups/datateknik16/)
-  *[Allmänna Datagruppen](https://www.facebook.com/groups/340801326035607/)
-  *[Datasektionen](http://www.datasektionen.com/)
-  *[Teknologkåren](http://teknologkaren.se/)
-  *[DDOS](https://www.facebook.com/LTUDDOS/)
-  *[LUDD](http://www.ludd.ltu.se/w2/index.php/Main_Page)
+  * [Eran egen facebookgrupp](https://www.facebook.com/groups/datateknik16/)
+  * [Allmänna Datagruppen](https://www.facebook.com/groups/340801326035607/)
+  * [Datasektionen](http://www.datasektionen.com/)
+  * [Teknologkåren](http://teknologkaren.se/)
+  * [DDOS](https://www.facebook.com/LTUDDOS/)
+  * [LUDD](http://www.ludd.ltu.se/w2/index.php/Main_Page)
 
 ## Andra bra länkar
 
