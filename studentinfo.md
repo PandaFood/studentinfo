@@ -67,14 +67,14 @@
 
 ### Intro till programmering
 
-  *[Intro till Python](https://www.codecademy.com/learn/python)
-  *[Intro to Git](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+  * [Intro till Python](https://www.codecademy.com/learn/python)
+  * [Intro to Git](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 ### Programvaror
 
-  *[Github Studentpack](https://education.github.com/pack)
-  *[IntelliJ studentlicens](http://www.jetbrains.com/student/)
-  *[Microsoft programvaror, dreamspark](https://goo.gl/FjDuij)
+  * [Github Studentpack](https://education.github.com/pack)
+  * [IntelliJ studentlicens](http://www.jetbrains.com/student/)
+  * [Microsoft programvaror, dreamspark](https://goo.gl/FjDuij)
 
 ### Omoral
 
@@ -83,4 +83,4 @@
   Boken är skriven av en tidigare student vid LTU och var den bäst säljande e-boken
   på adlibris under nolle-p 2014.
 
-  *[Omoral](http://www.omoral.com/)
+  * [Omoral](http://www.omoral.com/)
