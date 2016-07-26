@@ -43,7 +43,7 @@
   Gult är fint, gratis är gott och högt är vackert!
 
 
-  Med vänliga hälsningar
+  Med vänliga hälsningar  
   Dataphösarna 2016
 
 ## Länkar till annan viktig info
