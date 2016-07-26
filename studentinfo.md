@@ -50,29 +50,29 @@
 
 ### Info för nya studenter
 
-  * [Nya studenter](https://www.facebook.com/groups/249379248513482/)
-  * [Ge tak åt en student](https://www.facebook.com/groups/185241421543279/)
+  * (FB) [Nya studenter](https://www.facebook.com/groups/249379248513482/)
+  * (FB) [Ge tak åt en student](https://www.facebook.com/groups/185241421543279/)
   * [Karta över Campus](http://www.ltu.se/maps/campusmap/)
 
 ### Viktigt för datastudenter
 
-  * [Eran egen facebookgrupp](https://www.facebook.com/groups/datateknik16/)
-  * [Allmänna Datagruppen](https://www.facebook.com/groups/340801326035607/)
+  * (FB) [Eran egen facebookgrupp](https://www.facebook.com/groups/datateknik16/)
+  * (FB) [Alla datatekniker på LTU](https://www.facebook.com/groups/340801326035607/)
+  * (FB) [DDOS, Datatekniks programmförening](https://www.facebook.com/LTUDDOS/)
   * [Datasektionen](http://www.datasektionen.com/)
   * [Teknologkåren](http://teknologkaren.se/)
-  * [DDOS](https://www.facebook.com/LTUDDOS/)
   * [LUDD](http://www.ludd.ltu.se/w2/index.php/Main_Page)
 
 ### Intro till programmering
 
   Har du inte skrivit någon kod tidigare, eller kanske vill fräscha upp dig lite så är
-  det här två riktigt bra korta intrkurser att gå. Den första är i python (det första
+  det här två riktigt bra korta introkurser att gå. Den första är i python (det första
   språket ni kommer lära er på universitetet) och den andra är i GIT, ett
-  versionshanteringsvertyg. Det är samma program som den välkända sidan GitHub är bygt
+  versionshanteringsvertyg. Det är samma program som den välkända sidan GitHub är byggt
   på.
 
-  * [Intro till Python](https://www.codecademy.com/learn/python)
-  * [Intro to Git](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+  * CodeAcademy: [Intro till Python](https://www.codecademy.com/learn/python)
+  * Udacity: [Intro till Git](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 ### Programvaror
 
