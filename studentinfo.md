@@ -43,10 +43,10 @@
   Gult är fint, gratis är gott och högt är vackert!
 
 
-  Med vänliga hälsningar  
+  Med vänliga hälsningar    
   Dataphösarna 2016
 
-## Länkar till annan viktig info
+## Bra länkar till annan viktig info
 
 ### Info för nya studenter
 
@@ -63,9 +63,13 @@
   * [DDOS](https://www.facebook.com/LTUDDOS/)
   * [LUDD](http://www.ludd.ltu.se/w2/index.php/Main_Page)
 
-## Andra bra länkar
-
 ### Intro till programmering
+
+  Har du inte skrivit någon kod tidigare, eller kanske vill fräscha upp dig lite så är
+  det här två riktigt bra korta intrkurser att gå. Den första är i python (det första
+  språket ni kommer lära er på universitetet) och den andra är i GIT, ett
+  versionshanteringsvertyg. Det är samma program som den välkända sidan GitHub är bygt
+  på.
 
   * [Intro till Python](https://www.codecademy.com/learn/python)
   * [Intro to Git](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
@@ -74,9 +78,9 @@
 
   * [Github Studentpack](https://education.github.com/pack)
   * [IntelliJ studentlicens](http://www.jetbrains.com/student/)
-  * [Microsoft programvaror, dreamspark](https://goo.gl/FjDuij)
+  * [Microsoft programvaror via dreamspark](https://goo.gl/FjDuij)
 
-### Omoral
+### Bonus: Omoral
 
   Omoral är en roman om hur studentlivet i Luleå kan se ut, om man är intresserad av
   den sidan av studierna.
