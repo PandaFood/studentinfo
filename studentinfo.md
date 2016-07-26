@@ -47,35 +47,34 @@
   Dataphösarna 2016
 
 ## Länkar till annan viktig info
---------------------------------
 
 ### Info för nya studenter
 
-  [Nya studenter](https://www.facebook.com/groups/249379248513482/)
-  [Ge tak åt en student](https://www.facebook.com/groups/185241421543279/)
-  [Karta över Campus](http://www.ltu.se/maps/campusmap/)
+  *[Nya studenter](https://www.facebook.com/groups/249379248513482/)
+  *[Ge tak åt en student](https://www.facebook.com/groups/185241421543279/)
+  *[Karta över Campus](http://www.ltu.se/maps/campusmap/)
 
 ### Viktigt för datastudenter
-  [Eran egen facebookgrupp](https://www.facebook.com/groups/datateknik16/)
-  [Allmänna Datagruppen](https://www.facebook.com/groups/340801326035607/)
-  [Datasektionen](http://www.datasektionen.com/)
-  [Teknologkåren](http://teknologkaren.se/)
-  [DDOS](https://www.facebook.com/LTUDDOS/)
-  [LUDD](http://www.ludd.ltu.se/w2/index.php/Main_Page)
+
+  *[Eran egen facebookgrupp](https://www.facebook.com/groups/datateknik16/)
+  *[Allmänna Datagruppen](https://www.facebook.com/groups/340801326035607/)
+  *[Datasektionen](http://www.datasektionen.com/)
+  *[Teknologkåren](http://teknologkaren.se/)
+  *[DDOS](https://www.facebook.com/LTUDDOS/)
+  *[LUDD](http://www.ludd.ltu.se/w2/index.php/Main_Page)
 
 ## Andra bra länkar
--------------------
 
 ### Intro till programmering
 
-  [Intro till Python](https://www.codecademy.com/learn/python)
-  [Intro to Git](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+  *[Intro till Python](https://www.codecademy.com/learn/python)
+  *[Intro to Git](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 ### Programvaror
 
-  [Github Studentpack](https://education.github.com/pack)
-  [IntelliJ studentlicens](http://www.jetbrains.com/student/)
-  [Microsoft programvaror, dreamspark](https://goo.gl/FjDuij)
+  *[Github Studentpack](https://education.github.com/pack)
+  *[IntelliJ studentlicens](http://www.jetbrains.com/student/)
+  *[Microsoft programvaror, dreamspark](https://goo.gl/FjDuij)
 
 ### Omoral
 
@@ -84,4 +83,4 @@
   Boken är skriven av en tidigare student vid LTU och var den bäst säljande e-boken
   på adlibris under nolle-p 2014.
 
-  [Omoral](http://www.omoral.com/)
+  *[Omoral](http://www.omoral.com/)
