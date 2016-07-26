@@ -50,8 +50,8 @@
   Gult är fint, gratis är gott och HÖGT är vackert!
 
 
-  __Med vänliga hälsningar      
-  Dataphösarna 2016__
+  _Med vänliga hälsningar      
+  Dataphösarna 2016_
 
 ## Bra länkar till annan viktig info
 
